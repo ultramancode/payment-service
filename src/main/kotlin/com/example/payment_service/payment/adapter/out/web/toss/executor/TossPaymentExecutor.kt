@@ -1,4 +1,4 @@
-package com.example.payment_service.payment.adapter.out.web.executor
+package com.example.payment_service.payment.adapter.out.web.toss.executor
 
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Component
